@@ -15,3 +15,6 @@
 jn<br>jm  
 fdjn
 ![]
+- [X] Woke up
+- [ ] got enough sleep
+- [x] got to school 
